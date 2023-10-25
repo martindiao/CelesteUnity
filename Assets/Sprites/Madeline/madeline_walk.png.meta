@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -244,6 +245,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      madeline_walk_1: 6575297212894024995
+      madeline_walk_5: -3114422097106884822
+      madeline_walk_4: 6929899035770039788
+      madeline_walk_0: -5653435177980612537
+      madeline_walk_2: 9181522608530320219
+      madeline_walk_3: -2136411570258531577
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

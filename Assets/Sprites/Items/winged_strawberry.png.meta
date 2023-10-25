@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -316,6 +317,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      winged_strawberry_2: -8626283116432988864
+      winged_strawberry_1: 5268027033069547640
+      winged_strawberry_8: 7202187125089869221
+      winged_strawberry_3: 8279121033425158045
+      winged_strawberry_6: -8184088646011119124
+      winged_strawberry_0: -4470602589752296576
+      winged_strawberry_4: -946376063960524042
+      winged_strawberry_5: -527229170920359358
+      winged_strawberry_7: 1982864346273151056
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
